@@ -11,6 +11,5 @@ const repeatString = function(text, number) {
 	return finalString;
 };
 
-
 // Do not edit below this line
 module.exports = repeatString;
